@@ -1,0 +1,8 @@
+`include "D:/fpga_project_robei/new_version/HEART_OXYGEN_AI/verilog/HearAndOxygen.v"
+`include "D:/fpga_project_robei/new_version/HEART_OXYGEN_AI/verilog/heart_o2_top.v"
+`include "D:/fpga_project_robei/new_version/HEART_OXYGEN_AI/verilog/uart_byte_tx.v"
+`include "D:/fpga_project_robei/new_version/HEART_OXYGEN_AI/verilog/uart_rx_from_ai.v"
+`include "D:/fpga_project_robei/new_version/HEART_OXYGEN_AI/verilog/uart_rx_heart.v"
+`include "D:/fpga_project_robei/new_version/HEART_OXYGEN_AI/verilog/uart_tx_ai.v"
+`include "D:/fpga_project_robei/new_version/HEART_OXYGEN_AI/verilog/uart_tx_data.v"
+

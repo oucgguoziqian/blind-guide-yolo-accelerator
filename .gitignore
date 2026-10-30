@@ -1,0 +1,28 @@
+# Vivado / Xilinx
+*.jou
+*.log
+*.str
+*.dcp
+*.rpt
+*.vdi
+*.wdb
+*.pb
+*.hwdef
+*.ltx
+*.bit
+*.bin.tmp
+.Xil/
+*.backup.*
+*~
+vivado*.log
+
+# 仿真
+xsim.dir/
+*.wcfg
+webtalk*
+.incr/
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store

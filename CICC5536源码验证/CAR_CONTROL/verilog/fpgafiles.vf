@@ -1,0 +1,12 @@
+`include "D:/fpga_project_robei/new_version/CAR_CONTROL/verilog/CameraAndPid_drive.v"
+`include "D:/fpga_project_robei/new_version/CAR_CONTROL/verilog/UltraSonicTop_drive.v"
+`include "D:/fpga_project_robei/new_version/CAR_CONTROL/verilog/UltraSonic_drive.v"
+`include "D:/fpga_project_robei/new_version/CAR_CONTROL/verilog/car_top.v"
+`include "D:/fpga_project_robei/new_version/CAR_CONTROL/verilog/error_count.v"
+`include "D:/fpga_project_robei/new_version/CAR_CONTROL/verilog/pid_algorithm.v"
+`include "D:/fpga_project_robei/new_version/CAR_CONTROL/verilog/pid_controller.v"
+`include "D:/fpga_project_robei/new_version/CAR_CONTROL/verilog/pwm_divider.v"
+`include "D:/fpga_project_robei/new_version/CAR_CONTROL/verilog/uart_rx.v"
+`include "D:/fpga_project_robei/new_version/CAR_CONTROL/verilog/uart_rx_from_bt.v"
+`include "D:/fpga_project_robei/new_version/CAR_CONTROL/verilog/uart_rx_from_camera.v"
+

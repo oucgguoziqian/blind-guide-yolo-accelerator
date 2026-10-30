@@ -1,0 +1,6 @@
+`include "D:/fpga_project_robei/new_version/CAMERA_PID/verilog/CameraAndPid_drive.v"
+`include "D:/fpga_project_robei/new_version/CAMERA_PID/verilog/error_count.v"
+`include "D:/fpga_project_robei/new_version/CAMERA_PID/verilog/pid_algorithm.v"
+`include "D:/fpga_project_robei/new_version/CAMERA_PID/verilog/pid_controller.v"
+`include "D:/fpga_project_robei/new_version/CAMERA_PID/verilog/uart_rx_from_camera.v"
+

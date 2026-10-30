@@ -1,0 +1,11 @@
+`include "E:/hls/Robei/environment/OLED/verilog/IIC_Driver.v"
+`include "E:/hls/Robei/environment/OLED/verilog/OLED_FontData.v"
+`include "E:/hls/Robei/environment/OLED/verilog/OLED_Init.v"
+`include "E:/hls/Robei/environment/OLED/verilog/OLED_NumData.v"
+`include "E:/hls/Robei/environment/OLED/verilog/OLED_Refresh.v"
+`include "E:/hls/Robei/environment/OLED/verilog/OLED_SelData.v"
+`include "E:/hls/Robei/environment/OLED/verilog/OLED_ShowData_Light.v"
+`include "E:/hls/Robei/environment/OLED/verilog/OLED_ShowData_TH.v"
+`include "E:/hls/Robei/environment/OLED/verilog/OLED_ShowFont.v"
+`include "E:/hls/Robei/environment/OLED/verilog/OLED_Top.v"
+

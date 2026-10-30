@@ -1,0 +1,3 @@
+`include "E:/hls/Robei/environment/TempAndHumi_drive/verilog/TH_test.v"
+`include "E:/hls/Robei/environment/TempAndHumi_drive/verilog/TempAndHumi_drive.v"
+
